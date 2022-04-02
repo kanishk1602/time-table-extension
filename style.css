@@ -1,0 +1,31 @@
+table, th, td {
+  border: 2px solid;
+  border-color: rgb(255, 166, 0);
+  border-style:dotted;
+  font-style: italic;
+  background: #4240c95e;
+ 
+}
+a:link {
+  color: green;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: pink;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
