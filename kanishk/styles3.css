@@ -1,0 +1,40 @@
+::placeholder {
+    width: 100%;
+    padding: 16px 20px;
+    border: none;
+    border-radius: 4px;
+    background-color: #7e46964d;
+
+  }
+  h1{
+    color:orange;
+    text-align: center;
+    font-style: oblique;
+  }
+  h3{
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:plum;
+  }
+
+  table, th, td {
+    border: 2px solid;
+    border-color: rgba(255, 77, 0, 0.139);
+    /* border-style:dotted; */
+    font-style: italic; 
+    background: #BDC7C9;
+   
+  }
+  span {
+    color: #9e62b5;
+  }
+  a{
+    font-size: 12px;
+  }
+  
+  tr{
+    height: 36px; color: #847554;
+  }
+  
+  body {background-color: rgba(255, 226, 80, 0.582);}
+  

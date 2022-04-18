@@ -1,0 +1,31 @@
+{
+    "name": "Cyberlabs Project",
+    "description": "H",
+    "version": "1.0",
+    "manifest_version": 3,
+    "permissions": ["storage"],
+    "options_ui": {
+        "page": "options.html",
+        "open_in_tab": true
+      },
+    "action": 
+          {
+                "default_title": "Timetable",
+                "default_popup": "popup.html",
+                "default_icon":
+                               {
+                                   "16": "Timetable.png",
+                                   "32": "Timetable.png",
+                                   "48": "Timetable.png",
+                                   "128": "Timetable.png"
+                               }
+           },
+      "icons": 
+      {
+             "16": "Timetable.png",
+             "32": "Timetable.png",
+             "48": "Timetable.png",
+             "128": "Timetable.png"
+     }
+    
+}
